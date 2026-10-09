@@ -1,0 +1,45 @@
+{
+  "PatientID": "P001",
+  "Name": "John Doe",
+  "Age": 45,
+  "Gender": "Male",
+  "Contact": {
+    "Phone": "+2348012345678",
+    "Email": "johndoe@example.com",
+    "Address": "12 Evergreen Street, Abuja"
+  },
+  "MedicalHistory": [
+    {
+      "Condition": "Hypertension",
+      "DiagnosisDate": "2022-05-10",
+      "Medications": ["Amlodipine", "Lisinopril"]
+    },
+    {
+      "Condition": "Diabetes",
+      "DiagnosisDate": "2021-11-02",
+      "Medications": ["Metformin"]
+    }
+  ],
+  "Appointments": [
+    {
+      "AppointmentID": "A1001",
+      "Doctor": "Dr. Sarah Johnson",
+      "Department": "Cardiology",
+      "Date": "2026-10-15",
+      "Status": "Scheduled"
+    },
+    {
+      "AppointmentID": "A1002",
+      "Doctor": "Dr. Michael Ade",
+      "Department": "Endocrinology",
+      "Date": "2026-11-01",
+      "Status": "Completed"
+    }
+  ],
+  "Billing": {
+    "LastInvoiceID": "INV20261001",
+    "Amount": 50000,
+    "Currency": "NGN",
+    "PaymentStatus": "Paid"
+  }
+}
