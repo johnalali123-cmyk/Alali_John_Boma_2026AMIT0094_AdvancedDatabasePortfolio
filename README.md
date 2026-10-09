@@ -26,8 +26,23 @@ This project models a Hospital Management System with the following main entitie
 - [transaction_example.sql](transaction_example.sql) — example transaction for payment processing
 - [portfolio_submission.md](portfolio_submission.md) — polished portfolio summary for submission
 
+## Portfolio Activities
+- **Portfolio 1: Database Design and Modelling**
+  - Files: schema_mysql.sql, schema_postgresql.sql, ER_Diagram.md
+  - Evidence: ERDiagram.png (ER diagram screenshot)
+
+- **Portfolio 2: Query Processing and Optimisation**
+  - File: hospital_queries.sql
+  - Evidence: Execution plan screenshot (query plan in MySQL Workbench)
+
+- **Portfolio 3: Transactions and Concurrency**
+  - File: transaction_example.sql
+  - Evidence: Commit/Rollback screenshot (transaction test in MySQL Workbench)
 ## ER Diagram
 See [ER_Diagram.md](ER_Diagram.md) for the Mermaid ER diagram and relationship overview.
 
 ## Notes
 This schema ensures referential integrity, supports appointment tracking, and allows billing information to be linked to each medical consultation. It can be extended later to include pharmacy, prescriptions, wards, and staff management.
+## AI Use Declaration
+Microsoft Copilot was used as a guide for structuring queries, schema design, and documentation.  
+All outputs were tested and verified manually in MySQL Workbench.
