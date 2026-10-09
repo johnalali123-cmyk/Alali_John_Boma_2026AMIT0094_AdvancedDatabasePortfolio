@@ -1,16 +1,15 @@
 # Alali_John_Boma_2026AMIT0094_AdvancedDatabasePortfolio
 
 Hospital Management System portfolio for MIT 8103 Advanced Database Systems CA (MIVA Open University, 2026/2027). This project includes the database schema, sample records, and supporting notes for the hospital management system design.
-
+## Case Study
+Case Study: EverGreen General Hospital — a healthcare system designed to manage patients, doctors, appointments, billing, and departments.
 ## Portfolio 1: Database Design
-
 This project models a Hospital Management System with the following main entities:
 - Departments
 - Doctors
 - Patients
 - Appointments
 - Billing
-
 ## Included Files
 - [schema.sql](schema.sql) — PostgreSQL schema
 - [schema_mysql.sql](schema_mysql.sql) — MySQL schema
@@ -25,7 +24,6 @@ This project models a Hospital Management System with the following main entitie
 - [hospital_queries.sql](hospital_queries.sql) — common SQL queries for reporting and analysis
 - [transaction_example.sql](transaction_example.sql) — example transaction for payment processing
 - [portfolio_submission.md](portfolio_submission.md) — polished portfolio summary for submission
-
 ## Portfolio Activities
 - **Portfolio 1: Database Design and Modelling**
   - Files: schema_mysql.sql, schema_postgresql.sql, ER_Diagram.md
