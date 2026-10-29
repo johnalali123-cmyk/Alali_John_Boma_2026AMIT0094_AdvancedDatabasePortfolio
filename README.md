@@ -1,4 +1,4 @@
-# Alali_John_Boma_2026AMIT0094_AdvancedDatabasePortfolio
+# Alali_John_Boma_301913693_AdvancedDatabasePortfolio
 
 Hospital Management System portfolio for MIT 8103 Advanced Database Systems CA (MIVA Open University, 2026/2027). This project includes the database schema, sample records, and supporting notes for the hospital management system design.
 ## Case Study
