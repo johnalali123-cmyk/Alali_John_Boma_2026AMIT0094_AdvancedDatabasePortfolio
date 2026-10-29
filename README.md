@@ -37,7 +37,7 @@ This project models a Hospital Management System with the following main entitie
   - File: transaction_example.sql
   - Evidence: Commit/Rollback screenshot (transaction test in MySQL Workbench)
   
-  -**Portfolio 4: NoSQL and Advanced Data Models**
+- **Portfolio 4: NoSQL and Advanced Data Models**
   - File: nosql_patient.json
   - Evidence: Patient record in JSON format (see Word doc for screenshot)
 ## ER Diagram
